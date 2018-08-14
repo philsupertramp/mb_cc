@@ -13,7 +13,7 @@ POSTGRES_DB_PORT = '5432'
 
 
 - `./manage.py migrate`
-- load fixture data[*](#Sources) for pizzas
+- load fixture data[*](#sources) for pizzas
 
     - `./manage.py loaddata order/fixtures/pizza_fixtures.json --format JSON` 
 
