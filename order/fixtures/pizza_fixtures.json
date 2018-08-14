@@ -1,0 +1,121 @@
+[
+  {
+    "model": "order.Pizza",
+    "pk": 1,
+    "fields": {
+      "name": "Margherita"
+    }
+  },
+  {
+    "model": "order.Pizza",
+    "pk": 2,
+    "fields": {
+      "name": "Funghi"
+    }
+  },
+  {
+    "model": "order.Pizza",
+    "pk": 3,
+    "fields": {
+      "name": "Capricciosa"
+    }
+  },
+  {
+    "model": "order.Pizza",
+    "pk": 4,
+    "fields": {
+      "name": "Quattro Stagioni"
+    }
+  },
+  {
+    "model": "order.Pizza",
+    "pk": 5,
+    "fields": {
+      "name": "Vegetariana"
+    }
+  },
+  {
+    "model": "order.Pizza",
+    "pk": 6,
+    "fields": {
+      "name": "Quattro Formaggi"
+    }
+  },
+  {
+    "model": "order.Pizza",
+    "pk": 7,
+    "fields": {
+      "name": "Marinara"
+    }
+  },
+  {
+    "model": "order.Pizza",
+    "pk": 8,
+    "fields": {
+      "name": "Peperoni"
+    }
+  },
+  {
+    "model": "order.Pizza",
+    "pk": 9,
+    "fields": {
+      "name": "Napolitana"
+    }
+  },
+  {
+    "model": "order.Pizza",
+    "pk": 10,
+    "fields": {
+      "name": "Hawaii"
+    }
+  },
+  {
+    "model": "order.Pizza",
+    "pk": 11,
+    "fields": {
+      "name": "Maltija"
+    }
+  },
+  {
+    "model": "order.Pizza",
+    "pk": 12,
+    "fields": {
+      "name": "Calzone"
+    }
+  },
+  {
+    "model": "order.Pizza",
+    "pk": 13,
+    "fields": {
+      "name": "Rucola"
+    }
+  },
+  {
+    "model": "order.Pizza",
+    "pk": 14,
+    "fields": {
+      "name": "Bolognese"
+    }
+  },
+  {
+    "model": "order.Pizza",
+    "pk": 15,
+    "fields": {
+      "name": "Meat Feast"
+    }
+  },
+  {
+    "model": "order.Pizza",
+    "pk": 16,
+    "fields": {
+      "name": "Kebabpizza"
+    }
+  },
+  {
+    "model": "order.Pizza",
+    "pk": 17,
+    "fields": {
+      "name": "Mexicana"
+    }
+  }
+]
